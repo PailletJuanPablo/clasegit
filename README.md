@@ -25,3 +25,7 @@ Crea carpeta .git que permite el funcionamiento del software
 
 # Crear un commit
 - Agregue uno o varios archivos para ser commiteados
+    git add nombreArchivo
+    git add .
+- Añadir comentario al cambio 
+    git commit -m "Mensaje"
