@@ -36,3 +36,5 @@ Crea carpeta .git que permite el funcionamiento del software
 
 # Agregar commits desde local a remoto
 - git add .
+- git commit -m "Mensaje informando los cambios realizados"
+- git push
