@@ -29,3 +29,10 @@ Crea carpeta .git que permite el funcionamiento del software
     git add .
 - Añadir comentario al cambio 
     git commit -m "Mensaje"
+
+# Vincular con repositorio remoto
+- Crear un repositorio remoto (vacío)
+- Vincular mi repositorio local con el repositorio remoto creado
+
+# Agregar commits desde local a remoto
+- git add .
