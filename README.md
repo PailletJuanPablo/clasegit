@@ -38,3 +38,5 @@ Crea carpeta .git que permite el funcionamiento del software
 - git add .
 - git commit -m "Mensaje informando los cambios realizados"
 - git push
+
+# Añadiendo algo desde github (desde repositorio remoto)
